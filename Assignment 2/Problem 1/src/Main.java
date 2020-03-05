@@ -35,6 +35,8 @@ public class Main {
 
     public static void main(String[] args) {
         Tree  <Integer> root = new Tree<Integer>(1);
+        root.left= new Tree<Integer>(2);
+        root.right= new Tree<Integer>(3);
         ///PRINT THE ACTION OF THE TREE
         System.out.println(Symetric.isSymetric(root));
     }
