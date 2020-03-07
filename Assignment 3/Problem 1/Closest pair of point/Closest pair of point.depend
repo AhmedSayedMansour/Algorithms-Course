@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583615294 source:c:\users\user\desktop\closest pair of point\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
